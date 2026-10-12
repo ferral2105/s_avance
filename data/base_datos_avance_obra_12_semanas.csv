@@ -1,0 +1,241 @@
+﻿semana,codigo_partida,partida,especialidad,encargado,peso_partida,avance_plan_semanal,avance_real_semanal
+1,P001,Obras preliminares,Civil,Carlos,5.0,5.0,5.0
+2,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+3,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+4,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+5,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+6,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+7,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+8,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+9,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+10,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+11,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+12,P001,Obras preliminares,Civil,Carlos,5.0,0.0,0
+1,P002,Movimiento de tierras,Civil,Carlos,7.0,0.0,0
+2,P002,Movimiento de tierras,Civil,Carlos,7.0,2.0,2.16
+3,P002,Movimiento de tierras,Civil,Carlos,7.0,2.0,2.1
+4,P002,Movimiento de tierras,Civil,Carlos,7.0,2.0,2.2
+5,P002,Movimiento de tierras,Civil,Carlos,7.0,1.0,1.06
+6,P002,Movimiento de tierras,Civil,Carlos,7.0,0.0,0
+7,P002,Movimiento de tierras,Civil,Carlos,7.0,0.0,0
+8,P002,Movimiento de tierras,Civil,Carlos,7.0,0.0,0
+9,P002,Movimiento de tierras,Civil,Carlos,7.0,0.0,0
+10,P002,Movimiento de tierras,Civil,Carlos,7.0,0.0,0
+11,P002,Movimiento de tierras,Civil,Carlos,7.0,0.0,0
+12,P002,Movimiento de tierras,Civil,Carlos,7.0,0.0,0
+1,P003,Excavaciones,Civil,Carlos,5.0,0.0,0
+2,P003,Excavaciones,Civil,Carlos,5.0,1.0,0.92
+3,P003,Excavaciones,Civil,Carlos,5.0,2.0,1.76
+4,P003,Excavaciones,Civil,Carlos,5.0,2.0,1.8
+5,P003,Excavaciones,Civil,Carlos,5.0,0.0,0
+6,P003,Excavaciones,Civil,Carlos,5.0,0.0,0
+7,P003,Excavaciones,Civil,Carlos,5.0,0.0,0
+8,P003,Excavaciones,Civil,Carlos,5.0,0.0,0
+9,P003,Excavaciones,Civil,Carlos,5.0,0.0,0
+10,P003,Excavaciones,Civil,Carlos,5.0,0.0,0
+11,P003,Excavaciones,Civil,Carlos,5.0,0.0,0
+12,P003,Excavaciones,Civil,Carlos,5.0,0.0,0
+1,P004,Cimentaciones,Estructuras,Miguel,8.0,0.0,0
+2,P004,Cimentaciones,Estructuras,Miguel,8.0,0.0,0
+3,P004,Cimentaciones,Estructuras,Miguel,8.0,1.0,1.0
+4,P004,Cimentaciones,Estructuras,Miguel,8.0,2.0,2.0
+5,P004,Cimentaciones,Estructuras,Miguel,8.0,2.0,2.0
+6,P004,Cimentaciones,Estructuras,Miguel,8.0,2.0,2.0
+7,P004,Cimentaciones,Estructuras,Miguel,8.0,1.0,1.0
+8,P004,Cimentaciones,Estructuras,Miguel,8.0,0.0,0
+9,P004,Cimentaciones,Estructuras,Miguel,8.0,0.0,0
+10,P004,Cimentaciones,Estructuras,Miguel,8.0,0.0,0
+11,P004,Cimentaciones,Estructuras,Miguel,8.0,0.0,0
+12,P004,Cimentaciones,Estructuras,Miguel,8.0,0.0,0
+1,P005,Concreto armado,Estructuras,Miguel,10.0,0.0,0
+2,P005,Concreto armado,Estructuras,Miguel,10.0,0.0,0
+3,P005,Concreto armado,Estructuras,Miguel,10.0,0.0,0
+4,P005,Concreto armado,Estructuras,Miguel,10.0,0.0,0
+5,P005,Concreto armado,Estructuras,Miguel,10.0,1.0,1.06
+6,P005,Concreto armado,Estructuras,Miguel,10.0,2.0,2.06
+7,P005,Concreto armado,Estructuras,Miguel,10.0,2.0,2.16
+8,P005,Concreto armado,Estructuras,Miguel,10.0,2.0,2.08
+9,P005,Concreto armado,Estructuras,Miguel,10.0,2.0,2.04
+10,P005,Concreto armado,Estructuras,Miguel,10.0,1.0,1.0
+11,P005,Concreto armado,Estructuras,Miguel,10.0,0.0,0
+12,P005,Concreto armado,Estructuras,Miguel,10.0,0.0,0
+1,P006,Acero de refuerzo,Estructuras,Miguel,7.0,0.0,0
+2,P006,Acero de refuerzo,Estructuras,Miguel,7.0,0.0,0
+3,P006,Acero de refuerzo,Estructuras,Miguel,7.0,0.0,0
+4,P006,Acero de refuerzo,Estructuras,Miguel,7.0,0.0,0
+5,P006,Acero de refuerzo,Estructuras,Miguel,7.0,1.0,1.0
+6,P006,Acero de refuerzo,Estructuras,Miguel,7.0,1.0,1.0
+7,P006,Acero de refuerzo,Estructuras,Miguel,7.0,2.0,2.0
+8,P006,Acero de refuerzo,Estructuras,Miguel,7.0,2.0,2.0
+9,P006,Acero de refuerzo,Estructuras,Miguel,7.0,1.0,1.0
+10,P006,Acero de refuerzo,Estructuras,Miguel,7.0,0.0,0
+11,P006,Acero de refuerzo,Estructuras,Miguel,7.0,0.0,0
+12,P006,Acero de refuerzo,Estructuras,Miguel,7.0,0.0,0
+1,P007,Muros y tabiquería,Arquitectura,Ana,6.0,0.0,0
+2,P007,Muros y tabiquería,Arquitectura,Ana,6.0,0.0,0
+3,P007,Muros y tabiquería,Arquitectura,Ana,6.0,0.0,0
+4,P007,Muros y tabiquería,Arquitectura,Ana,6.0,0.0,0
+5,P007,Muros y tabiquería,Arquitectura,Ana,6.0,0.0,0
+6,P007,Muros y tabiquería,Arquitectura,Ana,6.0,1.0,1.0
+7,P007,Muros y tabiquería,Arquitectura,Ana,6.0,2.0,2.0
+8,P007,Muros y tabiquería,Arquitectura,Ana,6.0,1.0,1.0
+9,P007,Muros y tabiquería,Arquitectura,Ana,6.0,1.0,1.0
+10,P007,Muros y tabiquería,Arquitectura,Ana,6.0,1.0,1.0
+11,P007,Muros y tabiquería,Arquitectura,Ana,6.0,0.0,0
+12,P007,Muros y tabiquería,Arquitectura,Ana,6.0,0.0,0
+1,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,0.0,0
+2,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,0.0,0
+3,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,0.0,0
+4,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,0.0,0
+5,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,0.0,0
+6,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,0.0,0
+7,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,1.0,0.88
+8,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,2.0,1.7
+9,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,1.0,0.9
+10,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,1.0,0.88
+11,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,0.0,0
+12,P008,Revoques y enlucidos,Arquitectura,Ana,5.0,0.0,0
+1,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,0.0,0
+2,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,0.0,0
+3,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,0.0,0
+4,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,0.0,0
+5,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,0.0,0
+6,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,0.0,0
+7,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,0.0,0
+8,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,1.2,1.2
+9,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,2.4,2.4
+10,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,1.2,1.2
+11,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,1.2,1.2
+12,P009,Pisos y pavimentos,Arquitectura,Ana,6.0,0.0,0
+1,P010,Carpintería,Arquitectura,Ana,4.0,0.0,0
+2,P010,Carpintería,Arquitectura,Ana,4.0,0.0,0
+3,P010,Carpintería,Arquitectura,Ana,4.0,0.0,0
+4,P010,Carpintería,Arquitectura,Ana,4.0,0.0,0
+5,P010,Carpintería,Arquitectura,Ana,4.0,0.0,0
+6,P010,Carpintería,Arquitectura,Ana,4.0,0.0,0
+7,P010,Carpintería,Arquitectura,Ana,4.0,0.0,0
+8,P010,Carpintería,Arquitectura,Ana,4.0,0.0,0
+9,P010,Carpintería,Arquitectura,Ana,4.0,1.3333,1.3333
+10,P010,Carpintería,Arquitectura,Ana,4.0,1.3333,1.3333
+11,P010,Carpintería,Arquitectura,Ana,4.0,1.3333,1.3333
+12,P010,Carpintería,Arquitectura,Ana,4.0,0.0,0
+1,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,0.0,0
+2,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,0.0,0
+3,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,0.0,0
+4,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,0.0,0
+5,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,1.0,0.86
+6,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,1.0,0.9
+7,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,1.0,0.88
+8,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,1.0,0.85
+9,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,1.0,0.9
+10,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,1.0,0.88
+11,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,0.0,0
+12,P011,Instalaciones sanitarias,Sanitaria,Luis,6.0,0.0,0
+1,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,0.0,0
+2,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,0.0,0
+3,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,0.0,0
+4,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,0.0,0
+5,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,0.0,0
+6,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,0.0,0
+7,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,0.0,0
+8,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,0.0,0
+9,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,0.0,0
+10,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,1.5,1.5
+11,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,1.5,1.5
+12,P012,Aparatos sanitarios,Sanitaria,Luis,3.0,0.0,0
+1,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,0.0,0
+2,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,0.0,0
+3,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,0.0,0
+4,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,0.0,0
+5,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,0.0,0
+6,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,1.0,1.03
+7,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,1.0,1.08
+8,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,1.0,1.04
+9,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,1.0,1.02
+10,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,2.0,2.0
+11,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,1.0,1.0
+12,P013,Instalaciones eléctricas,Eléctrica,Jorge,7.0,0.0,0
+1,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,0.0,0
+2,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,0.0,0
+3,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,0.0,0
+4,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,0.0,0
+5,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,0.0,0
+6,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,0.0,0
+7,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,0.0,0
+8,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,0.0,0
+9,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,0.0,0
+10,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,1.3333,1.1733
+11,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,2.6667,2.4
+12,P014,Tableros eléctricos,Eléctrica,Jorge,4.0,0.0,0
+1,P015,Iluminación,Eléctrica,Jorge,3.0,0.0,0
+2,P015,Iluminación,Eléctrica,Jorge,3.0,0.0,0
+3,P015,Iluminación,Eléctrica,Jorge,3.0,0.0,0
+4,P015,Iluminación,Eléctrica,Jorge,3.0,0.0,0
+5,P015,Iluminación,Eléctrica,Jorge,3.0,0.0,0
+6,P015,Iluminación,Eléctrica,Jorge,3.0,0.0,0
+7,P015,Iluminación,Eléctrica,Jorge,3.0,0.0,0
+8,P015,Iluminación,Eléctrica,Jorge,3.0,0.0,0
+9,P015,Iluminación,Eléctrica,Jorge,3.0,0.0,0
+10,P015,Iluminación,Eléctrica,Jorge,3.0,0.0,0
+11,P015,Iluminación,Eléctrica,Jorge,3.0,1.0,1.0
+12,P015,Iluminación,Eléctrica,Jorge,3.0,2.0,2.0
+1,P016,Pintura,Arquitectura,Ana,5.0,0.0,0
+2,P016,Pintura,Arquitectura,Ana,5.0,0.0,0
+3,P016,Pintura,Arquitectura,Ana,5.0,0.0,0
+4,P016,Pintura,Arquitectura,Ana,5.0,0.0,0
+5,P016,Pintura,Arquitectura,Ana,5.0,0.0,0
+6,P016,Pintura,Arquitectura,Ana,5.0,0.0,0
+7,P016,Pintura,Arquitectura,Ana,5.0,0.0,0
+8,P016,Pintura,Arquitectura,Ana,5.0,0.0,0
+9,P016,Pintura,Arquitectura,Ana,5.0,0.0,0
+10,P016,Pintura,Arquitectura,Ana,5.0,1.0,1.0
+11,P016,Pintura,Arquitectura,Ana,5.0,2.0,2.0
+12,P016,Pintura,Arquitectura,Ana,5.0,2.0,2.0
+1,P017,Impermeabilización,Civil,Carlos,3.0,0.0,0
+2,P017,Impermeabilización,Civil,Carlos,3.0,0.0,0
+3,P017,Impermeabilización,Civil,Carlos,3.0,0.0,0
+4,P017,Impermeabilización,Civil,Carlos,3.0,0.0,0
+5,P017,Impermeabilización,Civil,Carlos,3.0,0.0,0
+6,P017,Impermeabilización,Civil,Carlos,3.0,0.0,0
+7,P017,Impermeabilización,Civil,Carlos,3.0,0.0,0
+8,P017,Impermeabilización,Civil,Carlos,3.0,0.0,0
+9,P017,Impermeabilización,Civil,Carlos,3.0,1.0,1.0
+10,P017,Impermeabilización,Civil,Carlos,3.0,1.0,1.0
+11,P017,Impermeabilización,Civil,Carlos,3.0,1.0,1.0
+12,P017,Impermeabilización,Civil,Carlos,3.0,0.0,0
+1,P018,Cubierta,Estructuras,Miguel,1.0000,0.0000,0.0000
+2,P018,Cubierta,Estructuras,Miguel,1.0000,0.0000,0.0000
+3,P018,Cubierta,Estructuras,Miguel,1.0000,0.0000,0.0000
+4,P018,Cubierta,Estructuras,Miguel,1.0000,0.0000,0.0000
+5,P018,Cubierta,Estructuras,Miguel,1.0000,0.0000,0.0000
+6,P018,Cubierta,Estructuras,Miguel,1.0000,0.0000,0.0000
+7,P018,Cubierta,Estructuras,Miguel,1.0000,0.0000,0.0000
+8,P018,Cubierta,Estructuras,Miguel,1.0000,0.2000,0.2080
+9,P018,Cubierta,Estructuras,Miguel,1.0000,0.2000,0.2040
+10,P018,Cubierta,Estructuras,Miguel,1.0000,0.4000,0.4000
+11,P018,Cubierta,Estructuras,Miguel,1.0000,0.2000,0.2000
+12,P018,Cubierta,Estructuras,Miguel,1.0000,0.0000,0.0000
+1,P019,Obras exteriores,Civil,Carlos,4.0000,0.0000,0.0000
+2,P019,Obras exteriores,Civil,Carlos,4.0000,0.0000,0.0000
+3,P019,Obras exteriores,Civil,Carlos,4.0000,0.0000,0.0000
+4,P019,Obras exteriores,Civil,Carlos,4.0000,0.0000,0.0000
+5,P019,Obras exteriores,Civil,Carlos,4.0000,0.0000,0.0000
+6,P019,Obras exteriores,Civil,Carlos,4.0000,0.0000,0.0000
+7,P019,Obras exteriores,Civil,Carlos,4.0000,0.0000,0.0000
+8,P019,Obras exteriores,Civil,Carlos,4.0000,0.0000,0.0000
+9,P019,Obras exteriores,Civil,Carlos,4.0000,0.0000,0.0000
+10,P019,Obras exteriores,Civil,Carlos,4.0000,0.8000,0.7040
+11,P019,Obras exteriores,Civil,Carlos,4.0000,1.6000,1.4400
+12,P019,Obras exteriores,Civil,Carlos,4.0000,1.6000,1.4720
+1,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.0000,0.0000
+2,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.0000,0.0000
+3,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.0000,0.0000
+4,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.0000,0.0000
+5,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.0000,0.0000
+6,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.0000,0.0000
+7,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.0000,0.0000
+8,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.0000,0.0000
+9,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.0000,0.0000
+10,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.0000,0.0000
+11,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.3333,0.3333
+12,P020,Pruebas y puesta en servicio,Sanitaria,Luis,1.0000,0.6667,0.6667
